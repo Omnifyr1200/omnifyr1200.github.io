@@ -10,6 +10,10 @@ body { /* no . means element type */
      color:rgba(104, 118, 243, 0.685);
     }
 
+.avatar-subtext {
+     font-size: 2em;
+}
+
 .ratings-container{
 	background-color:#282828;
 	border: solid;
