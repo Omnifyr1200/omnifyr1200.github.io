@@ -18,7 +18,7 @@ body { /* no . means element type */
 }
 
 .about-container{
-	opacity: 0.3;
+	rgba(240, 85, 0, 0.3)
 }
 
 .container {
