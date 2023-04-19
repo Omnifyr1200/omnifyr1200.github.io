@@ -28,6 +28,10 @@ body { /* no . means element type */
 }
  
 /*HIDE PARTS*/
+.PlayerIcon PlayerIcon-128 {
+	display: none !important;
+}
+
 .ratings-row {
 	display: none !important;
 }
