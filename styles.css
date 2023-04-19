@@ -9,7 +9,7 @@ body { /* no . means element type */
      font-family: "papyrus", fantasy;
      color:rgba(104, 118, 243, 0.685);
     }
-.Card {
+.Card .about-container .about-markdown{
 	background-color:#e25822;
 }
 .avatar-subtext {
