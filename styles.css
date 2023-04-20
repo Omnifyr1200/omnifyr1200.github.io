@@ -33,7 +33,7 @@ PaginatedTable.review-history-table.clickable-rows {
         height: 100% !important;
 	border: solid;
 	border-width: 0.5px;
-
+}
 .container {
     max-width: none !important;
    background-image: url('https://i.imgur.com/AAqvy2Z.png');
