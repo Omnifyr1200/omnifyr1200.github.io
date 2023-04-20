@@ -5,7 +5,7 @@ body { /* no . means element type */
 /*modify the elements of the page*/
       
 .avatar-container .Player-username {
-     font-size: 4em;
+     font-size: 3em;
      font-family: "papyrus", fantasy;
      color:rgba(64, 0, 0, 0.9);
     }
