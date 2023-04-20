@@ -94,7 +94,7 @@ PaginatedTable.review-history-table.clickable-rows {
  
 h2 {
 	font-family: "papyrus", fantasy;
-        color:RGBA( 0, 206, 209, 1 );
+        color:RGBA( 64, 0, 0, 1 );
 }
 
 h3 {
@@ -117,7 +117,7 @@ h4{
 }
 
 p {
-        font-size: 1.2em;
+        font-size: 1.3em;
 	color: rgba(0, 0, 139, 0.99);
         font-family: "Lucida Handwriting", cursive; 
 }
