@@ -59,7 +59,7 @@ PaginatedTable.review-history-table.clickable-rows {
  
 /*HIDE PARTS*/
 
-.PlayerIcon PlayerIcon-128 {
+.PlayerIcon.PlayerIcon-128 {
 	display: none !important;
 }
 
@@ -163,7 +163,6 @@ border-radius: 40px;
     -webkit-animation: scrolling 15s linear infinite;
     animation: scrolling 15s linear infinite;
 }
-
 
 /* Move it (define the animation) */
 @-moz-keyframes scrolling {
