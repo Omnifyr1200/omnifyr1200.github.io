@@ -5,7 +5,7 @@ body { /* no . means element type */
 /*modify the elements of the page*/
       
 .avatar-container .Player-username {
-     font-size: 3em;
+     font-size: 2em;
      font-family: "papyrus", fantasy;
      color:rgba(64, 0, 0, 0.9);
     }
@@ -15,9 +15,6 @@ body { /* no . means element type */
         height: 100% !important;
 	border: solid;
 	border-width: 0.5px;
-}
-.avatar-subtext {
-     font-size: 2em;
 }
 
 .ratings-container{
@@ -43,10 +40,6 @@ PaginatedTable.review-history-table.clickable-rows {
 }
 
 .date {
-        color:rgba(64, 0, 0, 1) !important;
-}
-
-.player {
         color:rgba(64, 0, 0, 1) !important;
 }
 
