@@ -117,6 +117,7 @@ h4{
 }
 
 p {
+	style="font-weight: bold;"
 	color: rgba(0, 0, 0, 0.99);
         font-family: "Lucida Handwriting", cursive; 
 }
