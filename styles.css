@@ -48,6 +48,10 @@ body { /* no . means element type */
         color:rgba(64, 0, 0, 1) !important;
 }
 
+.Player-rank{
+        color:rgba(64, 0, 0, 1) !important;
+}
+
 .board_size {
         color:rgba(64, 0, 0, 1) !important;
 }
