@@ -55,7 +55,7 @@ PaginatedTable.review-history-table.clickable-rows {
         color:rgba(64, 0, 0, 1) !important;
 }
 	
-.PlayerIconPlayerIcon-128{
+.PlayerIcon.PlayerIcon-128{
 	background-image: url('https://steamuserimages-a.akamaihd.net/ugc/784121940640997581/FF287D3D2B94DD6AED5D5561BC91A98C15012BF0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');
 	width: 100% !important;
         height: 100% !important;
