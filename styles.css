@@ -40,7 +40,7 @@ html, body {
   transform: translate(90%, -50%);
   z-index: 1;
   max-width: 50%;
-
+}
 .ratings-container{
 	max-width: none !important;
    background-image: url('https://i.imgur.com/bYP6uD7.jpg');
