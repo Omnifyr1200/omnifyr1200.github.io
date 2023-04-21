@@ -167,28 +167,9 @@ border-radius: 40px;
   background-size: cover;
   color: transparent;
 }
-  -webkit-animation: scrolling 15s linear infinite;
-  animation: scrolling 15s linear infinite;
-}
 
 /* Move it (define the animation) */
-@-moz-keyframes scrolling {
-  0%   { -moz-transform: translateX(100%) translateY(-100%); }
-  100% { -moz-transform: translateX(-100%) translateY(-100%); }
-}
-@-webkit-keyframes scrolling {
-  0%   { -webkit-transform: translateX(100%); }
-  100% { -webkit-transform: translateX(-100%); }
-}
 @keyframes scrolling {
-  0%   { 
-    -moz-transform: translateX(100%); /* Firefox bug fix */
-    -webkit-transform: translateX(100%); /* Firefox bug fix */
-    transform: translateX(100%); 		
-  }
-  100% { 
-    -moz-transform: translateX(-100%); /* Firefox bug fix */
-    -webkit-transform: translateX(-100%); /* Firefox bug fix */
-    transform: translateX(-100%); 
-  }
+  0%   { transform: translateX(100%) translateY(-100%); }
+  100% { transform: translateX(-100%) translateY(-100%); }
 }
