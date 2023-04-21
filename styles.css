@@ -24,15 +24,6 @@ html, body {
      color:rgba(64, 0, 0, 0.9);
     }
 
-.about-container .about-markdown{
-	
-    background-image: url('https://images.pexels.com/videos/3045163/free-video-3045163.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500');
-	background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-color: rgba(0,0,0,0);
-}
-
 .ratings-container{
 	max-width: none !important;
    background-image: url('https://i.imgur.com/bYP6uD7.jpg');
