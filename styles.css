@@ -2,7 +2,7 @@ body { /* no . means element type */
      text-align: center; /* text-align centers text AND children */
 }
 body {
-  overflow: hidden;
+ overflow-y: visible !important;
 }
 
 * {
