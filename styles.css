@@ -155,14 +155,6 @@ margin-right: auto;
 border-radius: 2.5em;
 }
 
-.about-container .gif-container {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(90%, 10%);
-  z-index: 1;
-  max-width: 20%; /* Set the max width of the gif container */
-}
 
 /*ANIMATION*/
 
