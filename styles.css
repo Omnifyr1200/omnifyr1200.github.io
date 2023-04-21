@@ -1,6 +1,20 @@
 body { /* no . means element type */
      text-align: center; /* text-align centers text AND children */
 }
+body {
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+}
 
 /*modify the elements of the page*/
       
