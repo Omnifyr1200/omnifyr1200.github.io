@@ -47,6 +47,14 @@ PaginatedTable.review-history-table.clickable-rows {
    background-image: url('https://i.imgur.com/AAqvy2Z.png');
 }
 
+.about-container .about-markdown{
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0,0,0,0);
+}
+
 .date {
         color:rgba(64, 0, 0, 1) ;
 }
