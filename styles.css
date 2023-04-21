@@ -73,19 +73,19 @@ PaginatedTable.review-history-table.clickable-rows {
 }
 
 .date {
-        color:rgba(64, 0, 0, 1) !important;
+        color:rgba(64, 0, 0, 1) ;
 }
 
 .Player-rank{
-        color:rgba(64, 0, 0, 1) !important;
+        color:rgba(64, 0, 0, 1) ;
 }
 
 .board_size {
-        color:rgba(64, 0, 0, 1) !important;
+        color:rgba(64, 0, 0, 1) ;
 }
 
 .game_name {
-        color:rgba(64, 0, 0, 1) !important;
+        color:rgba(64, 0, 0, 1) ;
 }
 	
 
