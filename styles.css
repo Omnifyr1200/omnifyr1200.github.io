@@ -165,7 +165,7 @@ border-radius: 40px;
 transform:translateX(100%) translateY(50%);
   /* Apply animation to this element */	
   -moz-animation: scrolling 15s linear infinite;
-	background-image: url(https://cdnb.artstation.com/p/assets/images/images/052/586/091/original/cecihoney-dragon-flight.gif?1660165746);
+	background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI4OGUxMDhhYTlhNzU2YzkzNWJiNGU1NTYxZTQ0NTM2MzcyZGY5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ZDOjDWFTH3W5MahhwW/giphy.gif);
   background-size: cover;
   color: transparent;
   -webkit-animation: scrolling 15s linear infinite;
