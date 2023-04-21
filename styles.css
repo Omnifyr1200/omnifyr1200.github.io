@@ -160,22 +160,21 @@ border-radius: 40px;
   width: 100%;
   height: 100%;
   /* Starting position */
-  -moz-transform:translateX(100%) translateY(0%);
--webkit-transform:translateX(100%) translateY(0%);	
-transform:translateX(100%) translateY(0%);
+  transform: translateX(100%) translateY(-100%);
   /* Apply animation to this element */	
-  -moz-animation: scrolling 15s linear infinite;
+  animation: scrolling 15s linear infinite;
 	background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI4OGUxMDhhYTlhNzU2YzkzNWJiNGU1NTYxZTQ0NTM2MzcyZGY5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/ZDOjDWFTH3W5MahhwW/giphy.gif);
   background-size: cover;
   color: transparent;
+}
   -webkit-animation: scrolling 15s linear infinite;
   animation: scrolling 15s linear infinite;
 }
 
 /* Move it (define the animation) */
 @-moz-keyframes scrolling {
-  0%   { -moz-transform: translateX(100%); }
-  100% { -moz-transform: translateX(-100%); }
+  0%   { -moz-transform: translateX(100%) translateY(-100%); }
+  100% { -moz-transform: translateX(-100%) translateY(-100%); }
 }
 @-webkit-keyframes scrolling {
   0%   { -webkit-transform: translateX(100%); }
