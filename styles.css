@@ -25,10 +25,11 @@ html, body {
     }
 .about-container .about-markdown{
    background-image: url('https://i.imgur.com/xnZLmtX.jpg');
-	width: 100% !important;
-        height: 100% !important;
-	border: solid;
-	border-width: 0.5px;
+	background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0,0,0,0);
+	
 }
 
 .ratings-container{
