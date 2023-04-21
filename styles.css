@@ -26,23 +26,23 @@ html, body {
 
 .about-container{
 	
-   background-color: rgba(0, 0, 0, 0.5);
-  padding: 10px;
-  opacity: 0.7;
+   background-color: rgba(0, 0, 0, 0.5) !important;
+  padding: 10px !important;
+  opacity: 0.7 !important;
 }
 
 .about-markdown{
 	
-   background-color: rgba(0, 0, 0, 0.5);
-  padding: 10px;
-  opacity: 0.7;
+   background-color: rgba(0, 0, 0, 0.5) !important;
+  padding: 10px !important;
+  opacity: 0.7 !important;
 }
 
 .Card{
 	
-   background-color: rgba(0, 0, 0, 0.5);
-  padding: 10px;
-  opacity: 0.7;
+   background-color: rgba(0, 0, 0, 0.5) !important;
+  padding: 10px !important;
+  opacity: 0.7 !important;
 }
 
 .ratings-container{
