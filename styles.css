@@ -23,7 +23,26 @@ html, body {
      font-family: "papyrus", fantasy;
      color:rgba(64, 0, 0, 0.9);
     }
+.about-container {
+  position: relative;
+  width: 80%;
+  padding-top: 56.25%; /* 16:9 aspect ratio */
+  background-color: #ccc;
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  padding: 1em;
+}
 .about-container .about-markdown{
+	
    background-image: url('https://i.imgur.com/xnZLmtX.jpg');
 	background-repeat: no-repeat;
   background-size: cover;
