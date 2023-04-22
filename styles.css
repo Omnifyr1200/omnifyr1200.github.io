@@ -48,7 +48,7 @@ PaginatedTable.review-history-table.clickable-rows {
 }
 
 .about-container .about-markdown{
-
+  background-image: url('https://wallpapercave.com/wp/wp8626212.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -114,7 +114,7 @@ h4{
 }
 
 p {
-        font-size: 2em;
+        font-size: 1.4em;
 	color: rgba(255, 255, 255, 1);
         font-family: "papyrus", fantasy; 
 }
