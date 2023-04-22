@@ -75,6 +75,10 @@ PaginatedTable.review-history-table.clickable-rows {
 
 /*HIDE PARTS*/
 
+.PlayerIcon.PlayerIcon-128{
+	display: none !important;
+}
+
 .ratings-row {
 	display: none !important;
 }
