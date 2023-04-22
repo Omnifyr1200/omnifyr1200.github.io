@@ -25,8 +25,12 @@ html, body {
     }
 
 .ratings-container{
-	max-width: none !important;
-   background-image: url('https://i.pinimg.com/originals/de/83/25/de83259e8c08de288053c3ecaaa72f65.jpg');
+  max-width: none !important;
+  background-image: url('https://i.pinimg.com/originals/de/83/25/de83259e8c08de288053c3ecaaa72f65.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0,0,0,0);
 }
 .PaginatedTable.game-history-table.clickable-rows{
 	background-image: url('https://i.imgur.com/xnZLmtX.jpg');
