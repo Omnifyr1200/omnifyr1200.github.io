@@ -147,7 +147,7 @@ border-radius: 2.5em;
 }
 
 .gif{
- width: 50%;
+ transform: scale(0.5);
 margin-center: auto;
 }
 
