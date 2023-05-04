@@ -58,9 +58,9 @@ html, body {
 }
 
 .Card.activity-card{
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.7);
   padding: 10px;
-  opacity: 0.7;
+  opacity: 0.9;
 }
 
 .Card{
