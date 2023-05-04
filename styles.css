@@ -58,19 +58,19 @@ html, body {
 }
 
 .date {
-        
+      color:rgba(255, 255, 255, 1) ;  
 }
 
 .Player-rank{
-        
+        color:rgba(255, 255, 255, 1) ;
 }
 
 .board_size {
-        color:rgba(64, 0, 0, 1) ;
+        color:rgba(255, 255, 255, 1) ;
 }
 
 .game_name {
-        
+        color:rgba(255, 255, 255, 1) ;
 }
 	
 
